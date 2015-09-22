@@ -1,0 +1,999 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"muli",
+				"multiplier"
+			],
+			[
+				"stripe_",
+				"stripe_customer_id"
+			],
+			[
+				"color-jumbo",
+				"color-jumbo-link-hover"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"param",
+				"paramFoundAt"
+			],
+			[
+				"subscribe_",
+				"subscribe_with_existing_card"
+			],
+			[
+				"toggle",
+				"toggleAddCard"
+			],
+			[
+				"brokerage",
+				"brokerageMonthlyDeposit"
+			],
+			[
+				"funds",
+				"fundsMonthlyIncreaseNoFee"
+			],
+			[
+				"fund",
+				"fundsMonthlyIncrease"
+			],
+			[
+				"stripe",
+				"stripe_subscription_id"
+			],
+			[
+				"sigmaMonth",
+				"sigmaMonthlyPrice"
+			],
+			[
+				"month",
+				"monthlyDeposit"
+			],
+			[
+				"monthly",
+				"monthlyDeposit"
+			],
+			[
+				"initial",
+				"initialCapital"
+			],
+			[
+				"yearly",
+				"yearly_deposit"
+			],
+			[
+				"initia",
+				"initial_capital"
+			],
+			[
+				"aboutMeJumb",
+				"aboutMeJumboScrollStart"
+			],
+			[
+				"aboutMe",
+				"aboutMeJumboScrollStart"
+			],
+			[
+				"about",
+				"aboutMeJumboOffset"
+			],
+			[
+				"default",
+				"default_url_options"
+			],
+			[
+				"style",
+				"stylesheet_link_tag"
+			],
+			[
+				"phone",
+				"phone_book"
+			],
+			[
+				"footnote",
+				"footnotemark[number]	latex-document"
+			],
+			[
+				"footnotemark",
+				"footnotemark[number]	latex-document"
+			],
+			[
+				"abstract",
+				"begin{abstract}	latex-document"
+			],
+			[
+				"VIEW",
+				"VIEWPORT_HEIGHT"
+			],
+			[
+				"end",
+				"end{enumerate}	review_of_assignment_1_group_1.tex"
+			],
+			[
+				"VIEWPORT",
+				"VIEWPORT_HEIGHT"
+			],
+			[
+				"start",
+				"start_y"
+			],
+			[
+				"world_",
+				"world_pixel_height"
+			],
+			[
+				"pixel",
+				"pixel_width"
+			],
+			[
+				"tile",
+				"tile_size"
+			],
+			[
+				"get_po_",
+				"get_pos_y"
+			],
+			[
+				"get_po",
+				"get_pos_x"
+			],
+			[
+				"TILE_S",
+				"TILE_SIZE_X"
+			],
+			[
+				"pos",
+				"pos_y"
+			],
+			[
+				"cam_",
+				"cam_height"
+			],
+			[
+				"set_pos_",
+				"set_pos_x"
+			],
+			[
+				"TILE_SI",
+				"TILE_SIZE_Y"
+			],
+			[
+				"WORLD_",
+				"WORLD_WIDTH"
+			],
+			[
+				"SPLASH",
+				"SPLASH_OPEN_PDF"
+			],
+			[
+				"but",
+				"button_images"
+			],
+			[
+				"SPLA",
+				"SPLASH_OPEN_PDF"
+			],
+			[
+				"STATE",
+				"STATE_RUN"
+			],
+			[
+				"render_",
+				"render_run"
+			],
+			[
+				"swit",
+				"switch_background"
+			],
+			[
+				"fHeade",
+				"fHeaderSurface"
+			],
+			[
+				"SCREEN_",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCREEN",
+				"SCREEN_WIDTH"
+			],
+			[
+				"fHead",
+				"fHeaderTexture"
+			],
+			[
+				"CONTEN",
+				"CONTENT_RUN"
+			],
+			[
+				"usepacka",
+				"usepackage{package}	latex-document"
+			],
+			[
+				"subsub",
+				"subsubsection[short]{title}	latex-document"
+			],
+			[
+				"ref",
+				"ref{key}	latex-document"
+			],
+			[
+				"begin",
+				"begin{abstract}	latex-document"
+			],
+			[
+				"Additi",
+				"AdditionalServiceComponent_AdditionalServiceEvent"
+			],
+			[
+				"Cred",
+				"CreditCardNumberGenerator"
+			],
+			[
+				"exp",
+				"expiryMonth"
+			],
+			[
+				"ex",
+				"expiryMonth"
+			],
+			[
+				"cite",
+				"cite{keylist}	latex-document"
+			],
+			[
+				"thispa",
+				"thispagestyle{empty/plain/headings/myheadings}	latex-document"
+			],
+			[
+				"subsubsec",
+				"subsubsection{title}	latex-document"
+			],
+			[
+				"subsec",
+				"subsection{title}	latex-document"
+			],
+			[
+				"documentclass",
+				"documentclass{style}	latex-document"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Co",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cache",
+				"LaTeXing: Rebuild Cache (Hard)"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/controllers",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/views"
+	],
+	"file_history":
+	[
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/views/movies.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/views/youtube.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/controllers/movie-nav.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/views/movie-view.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/app.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/index.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/controllers/movie-view.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/views/movie-add.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/controllers/movie-delete.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/controllers/movie-add.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/views/movie-edit.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/controllers/movie-edit.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/scripts/controllers/movies.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/views/movie-delete.html",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/server/routes.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/server/package.json",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/server/models/Movie.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/server/controllers/MovieController.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/app/styles/main.scss",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/server/index.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/server/models/index.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/client/package.json",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/server/models/Movi.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/package.json",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/app.js",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/views/index.jade",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/views/layout.jade",
+		"/Users/patrikbackstrom/Downloads/html5-boilerplate_v5.2.0/humans.txt",
+		"/Users/patrikbackstrom/Git/MEAN/appspotr-challenge/.bowerrc",
+		"/usr/bin/expand",
+		"/Users/patrikbackstrom/Git/RoR/patrikbackstrom/app/assets/stylesheets/css_and_overrides.sass",
+		"/Users/patrikbackstrom/Dropbox/GhostPUK.txt",
+		"/Users/patrikbackstrom/Desktop/Överlämning CEO.txt",
+		"/Users/patrikbackstrom/Git/cpp/template.cpp",
+		"/Users/patrikbackstrom/Git/Websites/idgie.se/.gitignore",
+		"/Users/patrikbackstrom/Git/assembly/.gitignore",
+		"/Users/patrikbackstrom/Git/RoR/.gitignore",
+		"/Users/patrikbackstrom/Git/Assembly/hello_asm.s",
+		"/Users/patrikbackstrom/Git/cpp/.gitignore",
+		"/Users/patrikbackstrom/Git/T3 Project/ETL/Release/ebin/couch_views/latestData.json",
+		"/Users/patrikbackstrom/Git/T3 Project/ETL/Release/include/definitions.hrl",
+		"/Users/patrikbackstrom/Music/Chipmod & nintendo/nsf/nsf-moddar.txt",
+		"/Users/patrikbackstrom/Desktop/2015-09-08 Styrelsemöte.txt",
+		"/Users/patrikbackstrom/Desktop/temp.txt",
+		"/Users/patrikbackstrom/Music/Chipmod & nintendo/nsf/nsf-emulator/cheat.txt",
+		"/Users/patrikbackstrom/Music/Chipmod & nintendo/nsf-moddar.txt",
+		"/Users/patrikbackstrom/Music/Chipmod & nintendo/nsf/bra tracks.txt",
+		"/Users/patrikbackstrom/Desktop/bonusar.erl",
+		"/Users/patrikbackstrom/Git/Assembly/programming_from_the_ground_up/exit.s",
+		"/usr/include/mach/machine.h",
+		"/Users/patrikbackstrom/Desktop/LIsummary.txt",
+		"/Users/patrikbackstrom/Git/RoR/idgie/app/views/devise/shared/_links.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/app/models/user.rb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/app/views/devise/sessions/new.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/app/views/devise/shared/_links.erb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/db/schema.rb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/app/views/devise/confirmations/new.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/app/views/devise/registrations/new.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/app/views/devise/passwords/new.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/db/seeds.rb",
+		"/Users/patrikbackstrom/Git/RoR/idgie/Gemfile",
+		"/Users/patrikbackstrom/Desktop/Lathund vid skapande av nytt konto för anställd.txt",
+		"/Users/patrikbackstrom/Git/Erlang/Erlang Course/OTPserver/server.erl",
+		"/Users/patrikbackstrom/Git/Ruby/1.rb",
+		"/Users/patrikbackstrom/Git/Ruby/phoneBook.rb",
+		"/Users/patrikbackstrom/Git/Erlang/Erlang Course/assignment2/dist_erlang.erl",
+		"/Users/patrikbackstrom/Git/Erlang/Erlang Course/assignment2/current_counterexample.eqc",
+		"/Users/patrikbackstrom/Git/Erlang/Erlang Course/assignment2/dist_erlang_test.erl",
+		"/Users/patrikbackstrom/Git/Erlang/Erlang Course/stockSource3/scheduler.erl",
+		"/Users/patrikbackstrom/Git/Erlang/Erlang Course/stockSource3/ndax.erl",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/application.css.scss",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/_layout.css.scss",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/layouts/application.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/_home.css.scss",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/layouts/_top_nav.html.erb",
+		"/Users/patrikbackstrom/Desktop/_top_nav.html.erb",
+		"/Users/patrikbackstrom/Desktop/_menu.css.scss",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/pages/home.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/Gemfile.lock",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/config/routes.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/portfolios/show.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/portfolios/index.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/_funds.css.scss",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/javascripts/funds.js",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/javascripts/application.js",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/javascripts/home.js",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/subscriptions/new.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/controllers/users/registrations_controller.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/controllers/subscriptions_controller.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/javascripts/subscription.js",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/db/schema.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/models/subscription.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/config/locales/sigmastocks.sv.yml",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/config/locales/en.yml",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/config/locales/sv.yml",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/models/stripe_subscription.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/services/stripe_subscriber.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/controllers/stripe_controller.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/mailers/sigma_mailer.rb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/sigma_mailer/invoice_payment_failed.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/sigma_mailer/invoice_payment_failed.text.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/sigma_mailer/charge_failed.text.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/sigma_mailer/charge_failed.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/sigma_mailer/_stripe_email.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/sigma_mailer/_stripe_email.text.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/_menu.css.scss",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/pages/funds.html.erb",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/wp/style.css",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/wp/overrides.css",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/wp/normalize.css",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/shared/_analytics.html.erb",
+		"/Users/patrikbackstrom/Desktop/Notat strategimöte.txt",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/vendor/assets/stylesheets/slider.css",
+		"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/views/layouts/_content.html.erb",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/apps/web/src/routes.erl",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/apps/web/src/index.erl",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/deps/n2o/src/nitrogen/elements/element_dtl.erl",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/apps/web/src/erlydtl_page.erl",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/rebar.config",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/apps/web/src/web_sup.erl",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/apps/web/priv/templates/info.dtl",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/apps/web/src/web_app.erl",
+		"/Users/patrikbackstrom/Git/Erlang/n2o/apps/web/src/n2o_lager.erl",
+		"/Users/patrikbackstrom/Git/n2o/apps/web/src/routes.erl",
+		"/Users/patrikbackstrom/Git/n2o/apps/web/src/web_sup.erl",
+		"/Users/patrikbackstrom/Git/n2o/apps/web/src/web_app.erl",
+		"/Users/patrikbackstrom/Git/n2o/rebar.config",
+		"/Users/patrikbackstrom/Git/n2o/apps/web/src/index.erl"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/patrikbackstrom/Git/RoR/sigmastocks/app/assets/stylesheets/wp",
+			"/Users/patrikbackstrom/Git/RoR/sigmastocks",
+			"/Users/patrikbackstrom/Git/RoR/blog",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"listen",
+			"something",
+			"#",
+			"sigma-container",
+			"card_with_last_4",
+			"h1",
+			"HEADINGS",
+			"h1",
+			"negative-margin-top",
+			"small-margin",
+			"footer .copyright{",
+			"copyright",
+			".copyright",
+			"copyright",
+			"color-menu-backgr",
+			"sigma-text-small",
+			"sigma-text-smaller",
+			"sigma-text-small",
+			"sigma-text-smaller",
+			"sigma-text-larger",
+			"sigma-text-large",
+			"sigma-text-largest",
+			"color",
+			"a:hover",
+			"Funds",
+			"App",
+			"a",
+			"newsletter",
+			"binding.",
+			"StripeSubscriber",
+			"portfolio",
+			"portfo",
+			"new_subscription",
+			"graph-container",
+			"getCard",
+			"new_subscription",
+			"stripe",
+			"data",
+			"mail(",
+			"mandril",
+			"EVENT",
+			"comparative-prediction-sliders",
+			"nav-sub\"",
+			"nav-sub",
+			"div",
+			"sticky",
+			"$small",
+			"selectAll",
+			"Genomsnittlig fond",
+			"\"Fond\"",
+			"\"Fond 1\"",
+			"calculateInitialFee",
+			"initialFeePercentage",
+			"calculate_points",
+			"graph_data",
+			"chart_object",
+			"sigma_increase",
+			"draw_graph",
+			"generate_data_points",
+			"initial_capital",
+			"yearly_deposit",
+			"fund_1_increase",
+			"'",
+			"max_years",
+			"start_value",
+			"'",
+			"data2",
+			"areas",
+			"cycle",
+			"dataProvider",
+			"bicycles",
+			"motorcycles",
+			"cars",
+			"quotes",
+			"#",
+			"_to",
+			"zoom",
+			"free",
+			"get_value_between_dates",
+			"bf0f",
+			"confirmation_path",
+			"rbenv",
+			"funds",
+			"White",
+			"document_height",
+			"colHighlight",
+			"menuHighlightTextColor",
+			"bgHighlight",
+			"bgDefault",
+			"343434",
+			"colDefault",
+			";",
+			"}",
+			"{",
+			";",
+			"mailer",
+			";",
+			"col-md-4",
+			"application.html.erb",
+			"<",
+			"section",
+			"thought",
+			"rq1",
+			"RQ1",
+			"thought",
+			"not defined",
+			"footnotemark[2",
+			"\\ditto",
+			"Executable code and coding effort",
+			"illustrate",
+			"demo",
+			"citeFEM",
+			"Neuroticism",
+			"double",
+			"Effects of Openness to Experience",
+			"Effects of Personality",
+			"five-factor",
+			"five factor",
+			"cite",
+			"keele",
+			"\\cite",
+			"{Keele}",
+			"loyal",
+			"communication",
+			"NA",
+			"p-value",
+			"extraversion",
+			"section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "appspotr-challenge.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemlock",
+				"Gemfile.lock"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"registration",
+				"app/controllers/users/registrations_controller.rb"
+			],
+			[
+				"_layout",
+				"app/assets/stylesheets/_layout.css.scss"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"subscription.js",
+				"app/assets/javascripts/subscription.js"
+			],
+			[
+				"home.html",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"home.css",
+				"app/assets/stylesheets/_home.css.scss"
+			],
+			[
+				"menu",
+				"app/assets/stylesheets/_menu.css.scss"
+			],
+			[
+				"layout",
+				"app/assets/stylesheets/_layout.css.scss"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"_top_nav",
+				"app/views/layouts/_top_nav.html.erb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"nav",
+				"app/views/layouts/_top_nav.html.erb"
+			],
+			[
+				"pages_",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"user",
+				"admin/app/models/admin/admin_user.rb"
+			],
+			[
+				"stripeuser",
+				"app/models/stripe_user.rb"
+			],
+			[
+				"subscription",
+				"app/assets/javascripts/subscription.js"
+			],
+			[
+				"sigma",
+				"app/mailers/sigma_mailer.rb"
+			],
+			[
+				"stripe_",
+				"app/controllers/stripe_controller.rb"
+			],
+			[
+				"funds.css",
+				"app/assets/stylesheets/_funds.css.scss"
+			],
+			[
+				"funds",
+				"app/views/pages/funds.html.erb"
+			],
+			[
+				"_strip",
+				"app/views/sigma_mailer/_stripe_email.html.erb"
+			],
+			[
+				"sigmama",
+				"app/mailers/sigma_mailer.rb"
+			],
+			[
+				"payment",
+				"app/views/sigma_mailer/invoice_payment_failed.html.erb"
+			],
+			[
+				"stripe",
+				"app/controllers/stripe_controller.rb"
+			],
+			[
+				".rb",
+				"db/schema.rb"
+			],
+			[
+				"seed",
+				"db/seeds/development/user.seeds.rb"
+			],
+			[
+				"sigma_",
+				"app/mailers/sigma_mailer.rb"
+			],
+			[
+				"stripe_ma",
+				"app/views/sigma_mailer/stripe_email.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"production.",
+				"config/environments/production.rb"
+			],
+			[
+				"userse",
+				"admin/app/services/admin/user_service.rb"
+			],
+			[
+				"local",
+				"config/locales/sigmastocks.sv.yml"
+			],
+			[
+				"locals",
+				"config/locales/sigmastocks.sv.yml"
+			],
+			[
+				"registrat",
+				"app/controllers/users/registrations_controller.rb"
+			],
+			[
+				"world.cpp",
+				"src/world.cpp"
+			],
+			[
+				"mm.cp",
+				"src/mm.cpp"
+			],
+			[
+				"",
+				"~/Dropbox/TERM5/References.bib"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/test.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
